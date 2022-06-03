@@ -1,0 +1,12 @@
+__pycache__/
+Diagram-minidoc/
+Image-minidoc/
+python-telegram-bot/
+trybot/
+trytocombain/
+/config.py
+/maingvabot.py
+/Mini Project documentation.docx
+/package-lock.json
+/package.json
+/quotebot.py
